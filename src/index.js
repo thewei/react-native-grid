@@ -1,3 +1,2 @@
-export default from './grid'
-export Grid from './grid'
-export Col from './col'
+module.exports.Grid = require('./grid');
+module.exports.Col = require('./col');
