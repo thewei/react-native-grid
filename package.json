@@ -1,0 +1,30 @@
+{
+  "name": "react-native-grid",
+  "version": "0.1.0",
+  "description": "The 24-column grid component for react-native",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --watch --stage 0 --out-dir lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewei/react-native-grid.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "grid",
+    "react-native-grid",
+    "flexbox",
+    "layout"
+  ],
+  "author": "thewei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thewei/react-native-grid/issues"
+  },
+  "homepage": "https://github.com/thewei/react-native-grid#readme",
+  "devDependencies": {
+    "babel": "^5.8.23"
+  }
+}
